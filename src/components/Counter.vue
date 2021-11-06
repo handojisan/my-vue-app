@@ -2,6 +2,7 @@
   <div>
     <div>counter</div>
     <button>+1</button>
+    <div>カウンター</div>
   </div>
 </template>
 
