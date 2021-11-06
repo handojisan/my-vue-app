@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div>良い感じのタイトル</div>
+    <div>すごい機能をつけました</div>
     <Counter></Counter>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
